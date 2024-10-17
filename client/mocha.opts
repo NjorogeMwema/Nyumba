@@ -1,0 +1,7 @@
+-- full-stack-estate/client/mocha.opts --
+```
+--require ts-node/register
+--require src/setup.ts
+--timeout 5000
+--recursive
+```

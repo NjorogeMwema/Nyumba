@@ -1,0 +1,7 @@
+Here is the contents of the file `full-stack-estate/api/mocha.opts`:
+
+```
+--require test/hello.test.js
+--timeout 5000
+--reporter spec
+```
